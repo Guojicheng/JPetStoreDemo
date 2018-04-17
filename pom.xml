@@ -128,7 +128,7 @@
   <repositories>
      <repository>
           <id>central</id>    
-          <url>http://admin:password@${MavenRepoServerIP}:8081/artifactory/maven-virtual</url>
+          <url>http://admin:password@$192.168.1.101:8081/artifactory/maven-virtual</url>
      </repository>       
   </repositories>       
   <build>
